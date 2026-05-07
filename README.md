@@ -13,14 +13,3 @@
 - **Mapping Engine:** CesiumJS
 - **Data Format:** WGS84 좌표계로 변환된 GeoJSON
 
-## 시작하기
-```bash
-# 종속성 설치
-npm install
-
-# 로컬 개발 서버 실행
-npm run dev
-
-# GitHub Pages 배포용 빌드 (../cesiumjs 폴더로 생성됨)
-npm run build
-```
